@@ -1,0 +1,352 @@
+proto1,test1,['DANF3E - DOCUMENTO AUXILIAR DA NOTA ', 'FISCAL DE ENERGIA ELÉTRICA ELETRÔNICA ', 'JOHN JAIRO SANABRIA SARMIENTO ', 'R CARLOS ILIDRO 103 CA 6 ', 'BANCARIOS / RIO DE JANEIRO, RJ ', 'CEP 21910-160 | MEDIDOR: 2231636 ', '01 17 L565 19 0286 Z002 ', ' ', 'Grupo B / Subgrupo B1 Residencial / ', 'Res Baixa Renda ', '', '', 'JOHN JAIRO SANABRIA ', 'SARMIENTO ', 'R CARLOS ILIDRO 103 CA 6 ', 'BANCARIOS / RIO DE JANEIRO, RJ ', 'CEP 21910-160 ', 'CPF 070.164.991-70 ', 'Conta Contrato: 10135764836 ', '', '', '', '', 'Leitura atual ', '28/12/2022 ', '', '', '', '', 'NOTA FISCAL Nº 1754007 - SÉRIE 05 / DATA DE EMISSÃO: 28/12/2022 ', 'Consulte pela Chave de Acesso em: ', 'http://dfe-portal.sefazvirtual.rs.gov.br/NF3e/consulta ', 'Chave de acesso: ', '33221260444437000146660050117540072046028072 ', 'Protocolo de autorização: 3332200036841183 - 28/12/2022 às 17:44:59 ', '', '', '', 'COMUNICADO: REAJUSTE TARIFÁRIO A partir de 15/03/2022, foi aplicado um aumento médio de 15,53% na tarifa conforme Resolução nº 3.014/2022, publicada pela Aneel. Contudo, ', 'através da Resolução nº 3.144/2022, a Aneel publicou a revisão extraordinária autorizando a redução média de 6,00% sobre a nova tarifa vigente, a partir de 15/12/2022. ', '', 'Energia até 30 kWh ', 'Energia de 31 a 100 kWh ', 'PIS/COFINS da subvenção/descon ', 'Multa 2% conta de 10/2022 sobre R$ 103,20 ', 'Cobrança da Conta de Energia de 11 / 2022 ', 'TOTAL ', '', '', '', ' Preço unit (R$) ', ' com tributos ', '', '', '', ' Base Calc. ', 'ICMS (R$) ', ' Alíquota. ', 'ICMS (%) ', ' ICMS ', ' (R$) ', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', 'PIS/PASEP ', 'COFINS ', '63,23 ', '63,23 ', '0,87% ', '4,02% ', '0,53 ', '2,51 ', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', 'Postos ', 'horários ', 'Leitura ', 'Anterior ', 'Leitura ', 'Atual ', 'Const ', 'Medidor ', '', '', '', '', '', '', '', '', 'ATENÇÃO! AVISO DE CORTE Até o dia 28/12/2022 não constava em nossos registros o pagamento da(s) conta(s) de energia elétrica e/ou serviço(s) abaixo listada(s), no total de: R$ ', '1,02. O não pagamento implicará no corte do fornecimento de energia, a partir de 12/01/2023, cobrança de multa, juros e atualização monetária, conforme legislação em vigor; inclusão ', 'no SERASA e similares; rescisão contratual, após 2 ciclos de faturamento a partir do corte; cobrança, no mínimo, do custo de disponibilidade na conta subsequente ao corte. Caso já ', 'tenha(m) sido paga(s), favor desconsiderar este aviso. OUT/22 R$ 1,02 28/11/2022 ', '', '', '', '', '', ''],
+-0.0016588000000865577
+proto2,test1,ImportError: cannot import name 'PDFStackT' from 'pdfminer.pdfinterp' 
+proto3,DANF3E - DOCUMENTO AUXILIAR DA NOTA
+FISCAL DE ENERGIA ELÉTRICA ELETRÔNICAJOHN JAIRO SANABRIA SARMIENTO
+R CARLOS ILIDRO 103 CA 6
+BANCARIOS / RIO DE JANEIRO, RJ
+CEP 21910-160 | MEDIDOR: 2231636
+01 17 L565 19 0286 Z002
+  
+Grupo B / Subgrupo B1 Residencial /
+Res Baixa RendaBifásicoTarifa Social de Energia Elétrica criada pela Lei 10.438/02 -  Desconto: R$ 39,12
+JOHN JAIRO SANABRIA
+SARMIENTO
+R CARLOS ILIDRO 103 CA 6
+BANCARIOS / RIO DE JANEIRO, RJ
+CEP 21910-160
+CPF 070.164.991-70
+Conta Contrato: 101357648360410804964
+31831955Leitura anterior
+28/11/2022Leitura atual
+28/12/2022Nº de dias
+30Próxima Leitura
+26/01/2023
+NOTA FISCAL Nº 1754007 - SÉRIE 05 / DATA DE EMISSÃO: 28/12/2022
+Consulte pela Chave de Acesso em:
+http://dfe-portal.sefazvirtual.rs.gov.br/NF3e/consulta
+Chave de acesso:
+33221260444437000146660050117540072046028072
+Protocolo de autorização: 3332200036841183 - 28/12/2022 às 17:44:59
+DEZ/2022 30/01/2023 R$ 86,17
+COMUNICADO: REAJUSTE TARIFÁRIO A partir de 15/03/2022, foi aplicado um aumento médio de 15,53% na tarifa conforme Resolução nº 3.014/2022, publicada pela Aneel. Contudo,
+através da Resolução nº 3.144/2022, a Aneel publicou a revisão extraordinária autorizando a redução média de 6,00% sobre a nova tarifa vigente, a partir de 15/12/2022.
+PIS/PASEP
+COFINS63,23
+63,230,87%
+4,02%0,53
+2,51
+CONSUMO FATURADO Nº DIAS FAT
+DEZ/22 ------         90         30 
+NOV/22 ------         90         32 
+OUT/22 ------        100         28 
+SET/22 ------          0          0 
+AGO/22 ------          0          0 
+JUL/22 ------          0          0 
+JUN/22 ------          0          0 
+MAI/22 ------          0          0 
+ABR/22 ------          0          0 
+MAR/22 ------          0          0 
+FEV/22 ------          0          0 
+JAN/22 ------          0          0 
+DEZ/21 ------          0          0 
+Medidor Grandezas Postos
+horáriosLeitura
+AnteriorLeitura
+AtualConst
+MedidorConsumo
+kWh
+2231636      Energia kWh Tarifa Convencional 3.756 3.765 10 90
+ATENÇÃO! AVISO DE CORTE Até o dia 28/12/2022 não constava em nossos registros o pagamento da(s) conta(s) de energia elétrica  e/ou serviço(s) abaixo listada(s), no total de: R$
+1,02. O não pagamento implicará no corte do fornecimento de  energia, a partir de 12/01/2023, cobrança de multa, juros e atualização monetária, conforme legislação em vigor; inclusão
+no SERASA e similares; rescisão contratual, após 2 ciclos de faturamento a partir do corte; cobrança, no mínimo, do custo de   disponibilidade na conta subsequente ao corte. Caso já
+tenha(m) sido paga(s), favor desconsiderar este aviso.  OUT/22 R$ 1,02 28/11/2022 
+30/01/2023 ********86,17 31831955 DEZ/2022Autenticação Mecânica
+83620000000.5.86170053107.7.83833812111.7.10135764836.5Itens de faturaUnid.  Quant.  Preço unit (R$)
+ com tributos Valor (R$)   PIS/COFINS
+(R$)   Base Calc.
+ICMS (R$)   Alíquota.
+ICMS (%) ICMS
+ (R$) Tarifa
+ unit. (R$)
+Energia até 30 kWh kWh 30 0.30003 8,96 0,34 8,97 18,000 1,61 0,23400
+Energia de 31 a 100 kWh kWh 60 0.51433 30,81 1,02 25,69 18,000 4,62 0,40113
+PIS/COFINS da subvenção/descon 1,49 1,49
+Multa 2% conta de 10/2022 sobre R$ 103,20 2,06
+Cobrança da Conta de Energia de 11 / 2022 42,85
+TOTAL 2,85 39,78 7,15
+Coloque sua conta em débito automático, Ref. Bancária 010135764836
+-0.0008781000001363282
+proto4, raise RuntimeError("Unable to start Tika server.")
+RuntimeError: Unable to start Tika server.,
+proto5,Unable to run java; is it installed?
+2024-05-09 09:15:41,676 [MainThread  ] [ERROR]  Failed to receive startup confirmation from startServer.
+proto6,DANF3E - DOCUMENTO AUXILIAR DA NOTA
+FISCAL DE ENERGIA ELÉTRICA ELETRÔNICAJOHN JAIRO SANABRIA SARMIENTO
+R CARLOS ILIDRO 103 CA 6
+BANCARIOS / RIO DE JANEIRO, RJ
+CEP 21910-160 | MEDIDOR: 2231636
+01 17 L565 19 0286 Z002
+  
+Grupo B / Subgrupo B1 Residencial /
+Res Baixa RendaBifásicoTarifa Social de Energia Elétrica criada pela Lei 10.438/02 -  Desconto: R$ 39,12
+JOHN JAIRO SANABRIA
+SARMIENTO
+R CARLOS ILIDRO 103 CA 6
+BANCARIOS / RIO DE JANEIRO, RJ
+CEP 21910-160
+CPF 070.164.991-70
+Conta Contrato: 101357648360410804964
+31831955Leitura anterior
+28/11/2022Leitura atual
+28/12/2022Nº de dias
+30Próxima Leitura
+26/01/2023
+NOTA FISCAL Nº 1754007 - SÉRIE 05 / DATA DE EMISSÃO: 28/12/2022
+Consulte pela Chave de Acesso em:
+http://dfe-portal.sefazvirtual.rs.gov.br/NF3e/consulta
+Chave de acesso:
+33221260444437000146660050117540072046028072
+Protocolo de autorização: 3332200036841183 - 28/12/2022 às 17:44:59
+DEZ/2022 30/01/2023 R$ 86,17
+COMUNICADO: REAJUSTE TARIFÁRIO A partir de 15/03/2022, foi aplicado um aumento médio de 15,53% na tarifa conforme Resolução nº 3.014/2022, publicada pela Aneel. Contudo,
+através da Resolução nº 3.144/2022, a Aneel publicou a revisão extraordinária autorizando a redução média de 6,00% sobre a nova tarifa vigente, a partir de 15/12/2022.
+PIS/PASEP
+COFINS63,23
+63,230,87%
+4,02%0,53
+2,51
+CONSUMO FATURADO Nº DIAS FAT
+DEZ/22 ------         90         30 
+NOV/22 ------         90         32 
+OUT/22 ------        100         28 
+SET/22 ------          0          0 
+AGO/22 ------          0          0 
+JUL/22 ------          0          0 
+JUN/22 ------          0          0 
+MAI/22 ------          0          0 
+ABR/22 ------          0          0 
+MAR/22 ------          0          0 
+FEV/22 ------          0          0 
+JAN/22 ------          0          0 
+DEZ/21 ------          0          0 
+Medidor Grandezas Postos
+horáriosLeitura
+AnteriorLeitura
+AtualConst
+MedidorConsumo
+kWh
+2231636      Energia kWh Tarifa Convencional 3.756 3.765 10 90
+ATENÇÃO! AVISO DE CORTE Até o dia 28/12/2022 não constava em nossos registros o pagamento da(s) conta(s) de energia elétrica  e/ou serviço(s) abaixo listada(s), no total de: R$
+1,02. O não pagamento implicará no corte do fornecimento de  energia, a partir de 12/01/2023, cobrança de multa, juros e atualização monetária, conforme legislação em vigor; inclusão
+no SERASA e similares; rescisão contratual, após 2 ciclos de faturamento a partir do corte; cobrança, no mínimo, do custo de   disponibilidade na conta subsequente ao corte. Caso já
+tenha(m) sido paga(s), favor desconsiderar este aviso.  OUT/22 R$ 1,02 28/11/2022 
+30/01/2023 ********86,17 31831955 DEZ/2022Autenticação Mecânica
+83620000000.5.86170053107.7.83833812111.7.10135764836.5Itens de faturaUnid.  Quant.  Preço unit (R$)
+ com tributos Valor (R$)   PIS/COFINS
+(R$)   Base Calc.
+ICMS (R$)   Alíquota.
+ICMS (%) ICMS
+ (R$) Tarifa
+ unit. (R$)
+Energia até 30 kWh kWh 30 0.30003 8,96 0,34 8,97 18,000 1,61 0,23400
+Energia de 31 a 100 kWh kWh 60 0.51433 30,81 1,02 25,69 18,000 4,62 0,40113
+PIS/COFINS da subvenção/descon 1,49 1,49
+Multa 2% conta de 10/2022 sobre R$ 103,20 2,06
+Cobrança da Conta de Energia de 11 / 2022 42,85
+TOTAL 2,85 39,78 7,15
+Coloque sua conta em débito automático, Ref. Bancária 010135764836
+
+0.0017462000000705302
+proto7,190 lineas *doble dos outros) DANF3E - DOCUMENTO AUXILIAR DA NOTA
+FISCAL DE ENERGIA ELÉTRICA ELETRÔNICA
+JOHN JAIRO SANABRIA SARMIENTO
+R CARLOS ILIDRO 103 CA 6
+BANCARIOS / RIO DE JANEIRO, RJ
+CEP 21910-160 | MEDIDOR: 2231636
+01 17 L565 19 0286 Z002
+  
+Grupo B / Subgrupo B1 Residencial /
+Res Baixa Renda
+Bifásico
+Tarifa Social de Energia Elétrica criada pela Lei 10.438/02 -  
+Desconto: R$ 39,12
+JOHN JAIRO SANABRIA
+SARMIENTO
+R CARLOS ILIDRO 103 CA 6
+BANCARIOS / RIO DE JANEIRO, RJ
+CEP 21910-160
+CPF 070.164.991-70
+Conta Contrato: 10135764836
+0410804964
+31831955
+Leitura anterior
+28/11/2022
+Leitura atual
+28/12/2022
+Nº de dias
+30
+Próxima Leitura
+26/01/2023
+NOTA FISCAL Nº 1754007 - SÉRIE 05 / DATA DE EMISSÃO: 28/12/2022
+Consulte pela Chave de Acesso em:
+http://dfe-portal.sefazvirtual.rs.gov.br/NF3e/consulta
+Chave de acesso:
+33221260444437000146660050117540072046028072
+Protocolo de autorização: 3332200036841183 - 28/12/2022 às 17:44:59
+DEZ/2022
+30/01/2023
+R$ 86,17
+COMUNICADO: REAJUSTE TARIFÁRIO A partir de 15/03/2022, foi aplicado um aumento médio de 15,53% na tarifa conforme Resolução nº 3.014/2022, publicada pela Aneel. Contudo,
+através da Resolução nº 3.144/2022, a Aneel publicou a revisão 
+extraordinária autorizando a redução média de 6,00% sobre a nova tarifa vigente, a partir de 15/12/2022.
+PIS/PASEP
+COFINS
+63,23
+63,23
+0,87%
+4,02%
+0,53
+2,51
+CONSUMO FATURADO
+Nº DIAS FAT
+DEZ/22
+------
+        90 
+        30 
+NOV/22
+------
+        90 
+        32 
+OUT/22
+------
+       100 
+        28 
+SET/22
+------
+         0 
+         0 
+AGO/22
+------
+         0 
+         0 
+JUL/22
+------
+         0 
+         0 
+JUN/22
+------
+         0 
+         0 
+MAI/22
+------
+         0 
+         0 
+ABR/22
+------
+         0 
+         0 
+MAR/22
+------
+         0 
+         0 
+FEV/22
+------
+         0 
+         0 
+JAN/22
+------
+         0 
+         0 
+DEZ/21
+------
+         0 
+         0 
+Medidor
+Grandezas
+Postos
+horários
+Leitura
+Anterior
+Leitura
+Atual
+Const
+Medidor
+Consumo
+kWh
+2231636     Energia kWh
+Tarifa Convencional
+3.756
+3.765
+10
+90
+ATENÇÃO! AVISO DE CORTE Até o dia 28/12/2022 não constava em nossos registros o pagamento da(s) conta(s) de energia elétrica e/ou serviço(s) abaixo listada(s), no total de: R$
+1,02. O não pagamento implicará no corte do fornecimento de  energia, a partir de 12/01/2023, cobrança de multa, juros e atualização monetária, conforme legislação em vigor; inclusão
+no SERASA e similares; rescisão contratual, após 2 ciclos de faturamento a partir do corte; cobrança, no mínimo, do custo de  disponibilidade na conta subsequente ao corte. Caso já
+tenha(m) sido paga(s), favor desconsiderar este aviso. OUT/22 R$ 1,02 28/11/2022 
+30/01/2023
+********86,17
+31831955
+DEZ/2022
+Autenticação Mecânica
+83620000000.5.86170053107.7.83833812111.7.10135764836.5
+Itens de fatura
+Unid.
+ Quant.
+ Preço unit (R$)
+ com tributos
+ Valor (R$)
+  PIS/COFINS
+(R$)
+   Base Calc.
+ICMS (R$)
+   Alíquota.
+ICMS (%)
+ ICMS
+ (R$)
+ Tarifa
+ unit. (R$)
+Energia até 30 kWh
+kWh
+30
+0.30003
+8,96
+0,34
+8,97
+18,000
+1,61
+0,23400
+Energia de 31 a 100 kWh
+kWh
+60
+0.51433
+30,81
+1,02
+25,69
+18,000
+4,62
+0,40113
+PIS/COFINS da subvenção/descon
+1,49
+1,49
+Multa 2% conta de 10/2022 sobre R$ 103,20
+2,06
+Cobrança da Conta de Energia de 11 / 2022
+42,85
+TOTAL
+2,85
+39,78
+7,15
+Coloque sua conta em débito automático, Ref. Bancária 010135764836
+
+0.000130799999624287
+proto8,The command `pdftotext test1.pdf -` failed with exit code 127
+proto9,PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+proto10,NameError: name 'PyPDF2' is not defined (deprecated)
+proto11,ImportError: cannot import name 'PDFStackT' from 'pdfminer.pdfinterp'
+proto12,[{'Type': 'Page', 'MediaBox': [0, 0, 595, 842], 'Parent': <IndirectReference:n=1,g=0>, 'Resources': {'ProcSet': ['PDF', 'Text', 'ImageI'], 'Font': {'F001': <IndirectReference:n=10,g=0>, 'F002': <IndirectReference:n=12,g=0>}, 'XObject': {'00005': <IndirectReference:n=5,g=0>}}, 'Contents': <IndirectReference:n=13,g=0>}]
+0.01002619999962917
+proto13,raise JavaNotFoundError(JAVA_NOT_FOUND_ERROR)
+tabula.errors.JavaNotFoundError: `java` command is not found from this Python process.Please ensure Java is installed and PATH is set for `java`
+proto14,raise PDFInfoNotInstalledError(
+pdf2image.exceptions.PDFInfoNotInstalledError: Unable to get page count. Is poppler installed and in PATH?
